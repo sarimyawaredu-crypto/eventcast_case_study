@@ -1,0 +1,23 @@
+id,source,title,venue,city,start,price,truth
+1,ticketmaster,Nordic Lights Tour 2026 – Live in Stockholm,Avicii Arena,Stockholm,2026-12-05T20:00,"695 SEK",A
+2,venue_calendar,Nordic Lights,Globen,Stockholm,2026-12-05T20:00,"From 695 SEK",A
+3,community,NORDIC LIGHTS live @ Ericsson Globe!!,Ericsson Globe,Stockholm,2026-12-05T19:30,See website,A
+4,seetickets,Stockholm Startup Night,Kulturhuset Stadsteatern,Stockholm,2026-12-03T18:00,Free,B
+5,meetup,Startup Night Stockholm,Kulturhuset,Stockholm,2026-12-03T18:00,Free,B
+6,eventbrite,Stockholm Startup Night (Dec edition),Kulturhuset,Stockholm,2026-12-03T17:30,Free,B
+7,ticketmaster,Jazz at the Archipelago,Fasching,Stockholm,2026-12-04T21:00,"320 SEK",C
+8,venue_calendar,Jazz at the Archipelago – late show,Fasching,Stockholm,2026-12-04T23:30,"320 SEK",D
+9,meetup,Python Stockholm: December Meetup,Norrsken House,Stockholm,2026-12-08T18:00,Free,E
+10,eventbrite,Python Stockholm December meetup,Norrsken House,Stockholm,2026-12-08T18:00,Free,E
+11,meetup,Rust Stockholm: December Meetup,Norrsken House,Stockholm,2026-12-08T18:00,Free,F
+12,ticketmaster,Nordic Lights Tour 2026 – Live in Gothenburg,Scandinavium,Gothenburg,2026-12-07T20:00,"650 SEK",G
+13,community,Nordic lights gbg,Scandinavium,Gothenburg,2026-12-07T20:00,See website,G
+14,venue_calendar,Christmas Market Opening,Skansen,Stockholm,2026-12-06T11:00,"Entry ticket",H
+15,community,Skansen Christmas market opening day,Skansen,Stockholm,2026-12-06T10:00,See website,H
+16,seetickets,Winter Comedy Gala,Göta Lejon,Stockholm,2026-12-10T19:00,"450 SEK",I
+17,ticketmaster,Winter Comedy Gala 2026,Gota Lejon,Stockholm,2026-12-10T19:00,"450 SEK",I
+18,eventbrite,Design Thinking Workshop,Epicenter,Stockholm,2026-12-09T09:00,"1200 SEK",J
+19,meetup,Product Managers Stockholm: Roadmaps that Work,Epicenter,Stockholm,2026-12-09T17:30,Free,K
+20,community,Lucia Concert,Storkyrkan,Stockholm,2026-12-13T18:00,"250 SEK",L
+21,venue_calendar,Luciakonsert i Storkyrkan,Storkyrkan,Stockholm,2026-12-13T18:00,"250 SEK",L
+22,ticketmaster,Lucia Concert,Storkyrkan,Stockholm,2026-12-13T21:00,"250 SEK",M
